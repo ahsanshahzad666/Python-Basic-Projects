@@ -1,8 +1,6 @@
 # Rent Calculator in Python
 # This program calculates the rent share for people living in a flat/hostel.
 
-
-
 # -------------------------------
 # Step 1: Take inputs from the user
 rent = int(input("Enter your hostel/flat rent: "))
@@ -12,15 +10,11 @@ charge_per_unit = int(input("Enter the charge per electricity unit: "))
 persons = int(input("Enter the number of persons living in the room/flat: "))
 
 
-
-
 # -------------------------------
 # Step 2: Perform calculations
 electricity_bill = electricity_units * charge_per_unit
 total_expenses = rent + food + electricity_bill
 share_per_person = total_expenses / persons
-
-
 
 
 # -------------------------------
