@@ -22,7 +22,7 @@ The computer makes a random choice, and the winner is decided based on the class
 - **Paper vs Scissor** → Scissor wins  
 
 - **Scissor vs Scissor** → Tie  
-- **Scissor vs Rock** → Rock wins  
+- **Scissor vs Rock** → Rock wins    
 - **Scissor vs Paper** → Scissor wins  
 
 ---
