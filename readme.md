@@ -1,27 +1,18 @@
-# 🏠 Rent Calculator (Python Project)
+# 🐍 Python Basic Projects
 
-This is a beginner-friendly Python project that calculates how much each person should pay when living together in a hostel/flat.  
-I actually created this for my hostel rent to divide expenses among my friends 😅.
+A collection of beginner-friendly Python projects to learn programming basics.
 
+## 📂 Projects
 
-## Features
-- Takes input for:
-  - Hostel/flat rent
-  - Food expenses
-  - Electricity units + per unit charge
-  - Number of persons
-- Calculates:
-  - Total expenses
-  - Each person’s share
-- Simple and easy to use.
+- [🏠 Rent Calculator](./Rent-Calculator)  
+  Split hostel/flat rent and expenses among friends.
 
 
-## Technologies Used
-- **Python 3** (Core language)
+- [🎲 Dice Roller](./Dice-Roller)  
+  Simulate rolling a dice with random outcomes.
 
 
-## How to Run
-1. Clone this repository or download the file.
-2. Navigate to the project folder:
-   ```bash
-   cd Rent-Calculator
+- [📅 Age Calculator](./Age-Calculator)  
+  Find your exact age from date of birth.
+
+(More projects coming...)
