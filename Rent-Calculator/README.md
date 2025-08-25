@@ -14,12 +14,12 @@ I actually created this for my hostel rent to divide expenses among my friends ð
   - Each personâ€™s share
 - Simple and easy to use.
 
----
+
 
 ## Technologies Used
 - **Python 3** (Core language)
 
----
+
 
 ##  How to Run
 1. Clone this repository or download the file.
