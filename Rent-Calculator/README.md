@@ -1,9 +1,7 @@
 # Rent Calculator (Python Project)
-
 This is a beginner-friendly Python project that calculates how much each person should pay when living together in a hostel/flat.  
 I actually created this for my hostel rent to divide expenses among my friends ðŸ˜….
 
----
 
 ## Features
 - Takes input for:
@@ -26,5 +24,4 @@ I actually created this for my hostel rent to divide expenses among my friends ð
 ##  How to Run
 1. Clone this repository or download the file.
 2. Navigate to the project folder:
-   ```bash
-   cd Rent-Calculator
+
