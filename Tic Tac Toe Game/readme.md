@@ -3,8 +3,6 @@
 A simple **Tic-Tac-Toe game** built using **Python Tkinter**.  
 Two players can play the game (Player **X** and Player **O**) on the same computer.
 
----
-
 ## 🚀 Features
 - Two-player turn-based gameplay  
 - Highlights the winning combination in **green**  
@@ -12,13 +10,9 @@ Two players can play the game (Player **X** and Player **O**) on the same comput
 - Displays current player’s turn  
 - User-friendly GUI with Tkinter  
 
----
-
 ## 🛠️ Requirements
 - Python 3.x  
 - Tkinter (comes pre-installed with Python)  
-
----
 
 ## ▶️ How to Run
 
