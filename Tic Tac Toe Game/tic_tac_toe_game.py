@@ -10,3 +10,9 @@ def check_winner():
              messagebox.showinfo("Tic-Tac-Toe", f"player {buttons[combo[0]]['text']} wins!")
              root.quit()
              
+def button_click(index):
+    if buttons[index]["text"] == "" and not winner:
+        buttons[index]["text"] = current_player
+        check_winner()
+        toggle_player()
+    
