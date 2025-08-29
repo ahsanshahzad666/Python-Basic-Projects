@@ -7,9 +7,9 @@ qr = qrcode.QRCode(
 )
 
 
-data = "https://www.instagram.com/meemaliff_?igsh=Nzd1NnVqamhhdjNj"
+data = "https://github.com/ahsanshahzad666"
 
 qr.add_data(data)
 qr.make(fit=True)
 img = qr.make_image(fill='blue', back_color='white')
-img.save('txt.png')
+img.save('txt.png') 
