@@ -5,7 +5,7 @@ This application allows you to load multiple images and play them as a slideshow
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 - 📂 Load multiple images into a slideshow.  
 - ▶️ Start the slideshow with a single button.  
 - ⏱️ Auto image switching every few seconds.  
