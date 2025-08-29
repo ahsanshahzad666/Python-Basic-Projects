@@ -3,8 +3,6 @@
 A simple **QR Code Generator** built with Python using the **qrcode** library.  
 It can generate QR codes for **any text, link, or data** and save them as an image file.
 
----
-
 ## 🚀 Features
 - Generate QR codes for:
   - 🌐 URLs  
@@ -16,8 +14,6 @@ It can generate QR codes for **any text, link, or data** and save them as an ima
   - **Border** → thickness of the border  
   - **Colors** → foreground & background colors  
 - Saves output as a **PNG image file**  
-
----
 
 ## 📦 Installation
 
