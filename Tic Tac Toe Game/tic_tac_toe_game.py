@@ -39,7 +39,7 @@ game_window.title("Tic-Tac-Toe")
 # Create buttons (grid 3x3)
 buttons = [tk.Button(game_window, text="", font=("normal", 30), width=6, height=2, command=lambda i=i: button_click(i)) for i in range(9)]
 for i,button in enumerate(buttons):
-    button.grid(row=i //3, column=i %3)
+    button.grid(row=i //3, column=i %3)  
     
     
 # Game state
@@ -48,7 +48,7 @@ winner = False
 
 
 # Turn label
-label = tk.Label(game_window, text=f"player {current_player}'s11 turn", font=("normal", 16))
+label = tk.Label(game_window, text=f"player {current_player}'s turn", font=("normal", 16))
 label.grid(row=3, column=0, columnspan=3)
 
 game_window.mainloop()
